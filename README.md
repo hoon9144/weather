@@ -1,2 +1,2 @@
-# fuck-weather
-Learning React Native by Building a Fuck Weather App
+#-weathe
+Learning React Native by Building a  Weather App
